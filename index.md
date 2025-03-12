@@ -6,4 +6,4 @@ My expertise spans technical writing, red teaming concepts, and security awarene
 
 Beyond writing, I am continuously expanding my knowledge through hands-on labs, certifications, and practical exercises. My goal is to bridge the gap between cybersecurity concepts and effective communication, making security more accessible and actionable for organisations and individuals.
 
-I am currently available for freelance writing opportunities in cybersecurity, technical documentation, and educational content. If you're looking for a skilled writer who understands security from both a theoretical and a practical perspective, let’s connect.
+I am currently available for freelance writing opportunities in cybersecurity, technical documentation, and educational content. If you're looking for a skilled writer who understands security from both a theoretical and a practical perspective, [let’s connect](mailto:c_emmett@zohomail.eu).
